@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>decisions.sampleads.getting_started</groupId>
+        <groupId>decisions.adsdemo.getting_started</groupId>
         <artifactId>gettingStarted</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
@@ -22,26 +22,6 @@
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>decisions.mftraining.getting_started</groupId>
-            <artifactId>task1MakingADecision</artifactId>
-            <version>LATEST-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>decisions.mftraining.getting_started</groupId>
-            <artifactId>task2AddingNodes</artifactId>
-            <version>LATEST-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>decisions.mftraining.getting_started</groupId>
-            <artifactId>task3CreatingADataModel</artifactId>
-            <version>LATEST-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>decisions.mftraining.getting_started</groupId>
-            <artifactId>task4UsingRulePolicy</artifactId>
-            <version>LATEST-SNAPSHOT</version>
-        </dependency>
-        <dependency>
             <groupId>com.ibm.decision</groupId>
             <artifactId>engine-compact-runtime</artifactId>
             <version>${engine-compact-runtime.version}</version>
@@ -54,6 +34,10 @@
     </dependencies>
 
     
+
+
+
+
 
 
 
@@ -93,42 +77,6 @@
                                 <artifactItem>
                                     <groupId>decision.gettingStarted</groupId>
                                     <artifactId>data</artifactId>
-                                    <version>LATEST-SNAPSHOT</version>
-                                    <type>jar</type>
-                                    <overWrite>false</overWrite>
-                                    <includes>**/*.class</includes>
-                                    <outputDirectory>${project.build.directory}/classes</outputDirectory>
-                                </artifactItem>
-                                <artifactItem>
-                                    <groupId>decisions.mftraining.getting_started</groupId>
-                                    <artifactId>task1MakingADecision</artifactId>
-                                    <version>LATEST-SNAPSHOT</version>
-                                    <type>jar</type>
-                                    <overWrite>false</overWrite>
-                                    <includes>**/*.class</includes>
-                                    <outputDirectory>${project.build.directory}/classes</outputDirectory>
-                                </artifactItem>
-                                <artifactItem>
-                                    <groupId>decisions.mftraining.getting_started</groupId>
-                                    <artifactId>task2AddingNodes</artifactId>
-                                    <version>LATEST-SNAPSHOT</version>
-                                    <type>jar</type>
-                                    <overWrite>false</overWrite>
-                                    <includes>**/*.class</includes>
-                                    <outputDirectory>${project.build.directory}/classes</outputDirectory>
-                                </artifactItem>
-                                <artifactItem>
-                                    <groupId>decisions.mftraining.getting_started</groupId>
-                                    <artifactId>task3CreatingADataModel</artifactId>
-                                    <version>LATEST-SNAPSHOT</version>
-                                    <type>jar</type>
-                                    <overWrite>false</overWrite>
-                                    <includes>**/*.class</includes>
-                                    <outputDirectory>${project.build.directory}/classes</outputDirectory>
-                                </artifactItem>
-                                <artifactItem>
-                                    <groupId>decisions.mftraining.getting_started</groupId>
-                                    <artifactId>task4UsingRulePolicy</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
                                     <overWrite>false</overWrite>
