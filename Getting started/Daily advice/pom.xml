@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>decisions.sampleads.getting_started</groupId>
+        <groupId>decisions.adsdemo.getting_started</groupId>
         <artifactId>gettingStarted</artifactId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
