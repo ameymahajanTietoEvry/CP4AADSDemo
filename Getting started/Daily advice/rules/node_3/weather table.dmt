@@ -98,7 +98,7 @@
                     <ActionSet>
                         <Action DefId="A0">
                             <Expression>
-                                <Param><![CDATA["Rainy day! Take an umbrella."]]></Param>
+                                <Param><![CDATA["Rainy day! Take an umbrella!"]]></Param>
                             </Expression>
                         </Action>
                     </ActionSet>
