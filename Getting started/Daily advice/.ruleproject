@@ -28,7 +28,5 @@
   <modelFolders xsi:type="com.ibm.rules.studio.model.decisionservice:OperationFolder">
     <name>deployment</name>
   </modelFolders>
-  <documentation><![CDATA[Getting started final model: result of Task5.
-
-Give a contextual advice for today.]]></documentation>
+  <documentation><![CDATA[Give a contextual advice for today]]></documentation>
 </ilog.rules.studio.model.base:RuleProject>

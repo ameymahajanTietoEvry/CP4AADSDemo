@@ -58,7 +58,7 @@
                             <ActionSet>
                                 <Action DefId="A0">
                                     <Expression>
-                                        <Param><![CDATA["Warm day! Enjoy."]]></Param>
+                                        <Param><![CDATA["Warm day! Enjoy!!!"]]></Param>
                                     </Expression>
                                 </Action>
                             </ActionSet>
@@ -145,6 +145,5 @@
             <Data Name="Definitions(C0)#Width"><![CDATA[244]]></Data>
         </ResourceSet>
     </Resources>
-</DT>
-</definition>
+</DT></definition>
 </ilog.rules.studio.model.dt:DecisionTable>

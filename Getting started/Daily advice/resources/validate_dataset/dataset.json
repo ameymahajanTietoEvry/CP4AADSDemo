@@ -1,0 +1,8 @@
+{
+  "name": "Shridhar",
+  "weather": {
+    "rainForecast": 90,
+    "stormAlert": true,
+    "temperature": "cold"
+  }
+}
