@@ -14,7 +14,7 @@ public class Temperature
                 property "ads.attributeId" "2"
                 property "com.fasterxml.jackson.annotation.JsonProperty" "hot";
     public static final readonly Temperature warm
-                property "ads.attributeId" "1"
+                property "ads.attributeId" "4"
                 property "com.fasterxml.jackson.annotation.JsonProperty" "warm";
 }
 
