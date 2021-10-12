@@ -70,7 +70,7 @@
                             <ActionSet>
                                 <Action DefId="A0">
                                     <Expression>
-                                        <Param><![CDATA["Hot day! Grab some water."]]></Param>
+                                        <Param><![CDATA["Hot day! Grab some water!"]]></Param>
                                     </Expression>
                                 </Action>
                             </ActionSet>
