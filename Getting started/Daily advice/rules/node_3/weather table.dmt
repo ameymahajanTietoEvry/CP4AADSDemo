@@ -46,7 +46,7 @@
                             <ActionSet>
                                 <Action DefId="A0">
                                     <Expression>
-                                        <Param><![CDATA["Cold day! Take a coat."]]></Param>
+                                        <Param><![CDATA["Cold day! Take a coat.!!"]]></Param>
                                     </Expression>
                                 </Action>
                             </ActionSet>
